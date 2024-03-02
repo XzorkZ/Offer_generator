@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Bus Service Offer Generator</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Bus Service Offer Generator</h1>
+
+        <label for="bus-seat">Bus Seats:</label>
+        <input type="text" id="bus-seat">
+    
+        <label for="start-city">Start City:</label>
+        <input type="text" id="start-city">
+
+        <label for="start-date">Start Date [dd.mm.yyyy]:</label>
+        <input type="text" id="start-date">
+
+        <label for="end-city">End City:</label>
+        <input type="text" id="end-city">
+
+        <label for="end-date">End Date [dd.mm.yyyy]:</label>
+        <input type="text" id="end-date">
+
+        <p id="total-days"></p>
+
+        <label for="price">Price:</label>
+        <input type="text" id="price">
+
+
+
+
+
+        <p>Choose offer type:</p>
+
+        <input type="radio" id="like-gem" name="offer-type" value="d">
+        <label for="like-gem">like-gem</label>
+
+        <input type="radio" id="normal" name="offer-type" value="a">
+        <label for="normal">Normal</label>
+
+        <input type="radio" id="all-inc" name="offer-type" value="b">
+        <label for="all-inc">All Inclusive</label>
+
+        <input type="radio" id="all-inc-meals" name="offer-type" value="c">
+        <label for="all-inc-meals">All Inc + Meals</label>
+
+        <input type="radio" id="all-inc-Hotel" name="offer-type" value="e">
+        <label for="all-inc-Hotel">All Inc + Hotel</label>
+
+        <input type="radio" id="all-inc-meals-Hotel" name="offer-type" value="f">
+        <label for="all-inc-meals-Hotel">All Inc + Meals + Hotel</label>
+        
+        <button onclick="generateOffer()">Generate Offer</button>
+        
+        <div id="offer-result"></div>
+        
+
+    </div>
+    
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
