@@ -92,7 +92,7 @@ Service description: ${startCity} - ${endCity}
 Price: ${price}€
 ${inclusions}
 
-Offer is valid for 12h service per day. Extra hours will be charged 50EURO/1 extra hour.
+Offer is valid for 12h service per day. Extra hours will be charged 100EURO/1 extra hour.
 
 This offer is provided for informational purposes only; no coach has been booked at this time.
 
