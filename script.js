@@ -79,7 +79,6 @@ function generateOfferText(busSeat, startCity, startDate, endCity, endDate, delt
 
 
     offerText = `
-
 Please find our best price and conditions below.
 
 Type of coach (Capacity): ${busSeat} Seat Coach
