@@ -90,12 +90,13 @@ Service description: ${startCity} - ${endCity}
 Price: ${price}€
 ${inclusions}
 
-Offer is valid for 12h service per day. Extra hours will be charged 100 EUR/1 extra hour.
+Offer is valid for 12h service per day. Extra hours will be charged 100 EUR/1 extra hour. Tip is 2€ per person per day.
 
 This offer is provided for informational purposes only; no coach has been booked at this time.
 
 If you would like to proceed with booking our services, we kindly ask you to check availability once again through our sales agent.
 
+Jinlei
  `;
 
     return offerText;
