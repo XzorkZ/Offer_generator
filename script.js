@@ -96,6 +96,8 @@ Driver meals cost 30 EUR per day if paid on the spot, or 40 EUR per day if paid 
 
 A driver tip of 2 EUR per person per day is mandatory.
 
+Passengers can purchase a 500ml bottle of water directly from the bus driver for €1 when paying in cash or €1.50 if opting for payment via invoice.
+
 Please note that this offer is provided for informational purposes only; no coach has been booked at this time.
 
 If you wish to proceed with booking our services, we kindly request that you re-confirm availability with our sales agent.
