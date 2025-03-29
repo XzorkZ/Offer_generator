@@ -94,7 +94,7 @@ The offer includes 12 hours of service per day. Extra hours will be charged at 5
 
 Driver meals cost 30 EUR per day if paid on the spot, or 40 EUR per day if paid by bank transfer if the driver cannot have meals with the group. Providing breakfast at the hotel for the driver is mandatory.
 
-A driver tip of 2 EUR per person per day is mandatory.
+A mandatory driver tip of €2 per person per day applies, with a minimum of €25 per day for a 19+1 seat Sprinter and €40 per day for a 49+1 seat or bigger coach.
 
 Passengers can purchase a 500ml bottle of water directly from the bus driver for €1 when paying in cash or €1.50 if opting for payment via invoice.
 
