@@ -64,17 +64,17 @@ function generateOfferText(busSeat, startCity, startDate, endCity, endDate, delt
     var inclusions, offerText;
 
     if (offerType === "a") {
-        inclusions = "Inclusions: vehicle, 1 driver, petrol, and tolls.\n\nExclusions: City permits, parking fees, driver's accommodation, meals, tips and any costs, not mentioned in inclusions.";
+        inclusions = "\nInclusions: vehicle, 1 driver, petrol, and tolls.\n\nExclusions: City permits, parking fees, driver's accommodation, meals, tips and any costs, not mentioned in inclusions.";
     } else if (offerType === "b") {
-        inclusions = "Inclusions: vehicle, 1 driver, petrol, tolls, City permits and parking fees.\n\nExclusions: driver's accommodation, meals, tips and any costs, not mentioned in inclusions.";
+        inclusions = "\nInclusions: vehicle, 1 driver, petrol, tolls, City permits and parking fees.\n\nExclusions: driver's accommodation, meals, tips and any costs, not mentioned in inclusions.";
     } else if (offerType === "c") {
-        inclusions = "Inclusions: vehicle, 1 driver, petrol, tolls, driver's meals, city permits and parking fees.\n\nExclusions: Driver's accommodation, tips and any costs, not mentioned in inclusions.";
+        inclusions = "\nInclusions: vehicle, 1 driver, petrol, tolls, driver's meals, city permits and parking fees.\n\nExclusions: Driver's accommodation, tips and any costs, not mentioned in inclusions.";
     } else if (offerType === "d") {
-        inclusions = "Inclusions: vehicle, 1 driver and petrol.\n\nExclusions: Tolls, city permits, parking fees, driver's accommodation, meals, tips and any costs, not mentioned in inclusions.";
+        inclusions = "\nInclusions: vehicle, 1 driver and petrol.\n\nExclusions: Tolls, city permits, parking fees, driver's accommodation, meals, tips and any costs, not mentioned in inclusions.";
     } else if (offerType === "e") {
-        inclusions = "Inclusions: vehicle, 1 driver, petrol, tolls, City permits, parking fees and driver's accommodation.\n\nExclusions: Driver's meals, tips and any costs, not mentioned in inclusions.";
+        inclusions = "\nInclusions: vehicle, 1 driver, petrol, tolls, City permits, parking fees and driver's accommodation.\n\nExclusions: Driver's meals, tips and any costs, not mentioned in inclusions.";
     } else if (offerType === "f") {
-        inclusions = "Inclusions: vehicle, 1 driver, petrol, tolls, City permits, parking fees, driver's accommodation and meals.\n\nExclusions: Driver's tips and any costs, not mentioned in inclusions.";
+        inclusions = "\nInclusions: vehicle, 1 driver, petrol, tolls, City permits, parking fees, driver's accommodation and meals.\n\nExclusions: Driver's tips and any costs, not mentioned in inclusions.";
     }
 
 
