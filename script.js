@@ -90,7 +90,7 @@ Service description: ${startCity} - ${endCity}
 Price: ${price}€
 ${inclusions}
 
-The offer includes up to 12 hours of service per day. Extra hours will be charged at 50 EUR per additional hour if paid on the spot, or 100 EUR per additional hour if paid by bank transfer.
+The offer includes up to 12 hours of service per day, regardless of traffic or group delays. Additional hours are charged at €50 per hour if paid on the spot, or €100 per hour if paid by bank transfer.
 
 Driver meals cost 30 EUR per day if paid on the spot, or 40 EUR per day if paid by bank transfer if the driver cannot have meals with the group. Providing breakfast at the hotel for the driver is mandatory.
 
