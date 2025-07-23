@@ -96,7 +96,9 @@ Driver meals cost 30 EUR per day if paid on the spot, or 40 EUR per day if paid 
 
 A mandatory driver tip of €2 per person per day applies, with a minimum of €40 per day for a 19+1 seat Sprinter and €50 per day for a 49+1 seat.
 
-Groups are not permitted to bring their own water onto the bus. However, a 500ml bottle of water can be purchased directly from the driver for €1 when paying in cash or €1.50 if billed via invoice.
+Passengers are welcome to bring their own personal water bottles on board. However, tour leaders are not permitted to bring large quantities of water for group distribution. 
+
+A 500ml bottle of water can be purchased directly from the driver for €1 (cash) or €1.50 (invoice).
 
 Please note that this offer is provided for informational purposes only; no coach has been booked at this time.
 
